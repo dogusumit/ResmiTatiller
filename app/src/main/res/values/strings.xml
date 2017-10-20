@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">Resmi Tatiller</string>
+    <string name="btn_geri">Geri</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/8562563344</string>
+    <string name="play_store_id">dogusumit</string>
+
+    <string-array name="l2016">
+        <item>1 Ocak Yılbaşı</item>
+        <item>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</item>
+        <item>1 Mayıs Emek ve Dayanışma Günü</item>
+        <item>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</item>
+        <item>5 Temmuz	Ramazan Bayramı 1.gün</item>
+        <item>6 Temmuz	Ramazan Bayramı 2.gün</item>
+        <item>7 Temmuz	Ramazan Bayramı 3.gün</item>
+        <item>30 Ağustos Zafer Bayramı</item>
+        <item>12 Eylül Kurban Bayramı 1.gün</item>
+        <item>13 Eylül Kurban Bayramı 2.gün</item>
+        <item>14 Eylül Kurban Bayramı 3.gün</item>
+        <item>15 Eylül Kurban Bayramı 4.gün</item>
+        <item>29 Ekim Cumhuriyet Bayramı</item>
+    </string-array>
+    <string-array name="g2016">
+        <item>01.01.2016</item>
+        <item>23.04.2016</item>
+        <item>01.05.2016</item>
+        <item>19.05.2016</item>
+        <item>05.07.2016</item>
+        <item>06.07.2016</item>
+        <item>07.07.2016</item>
+        <item>30.08.2016</item>
+        <item>12.09.2016</item>
+        <item>13.09.2016</item>
+        <item>14.09.2016</item>
+        <item>15.09.2016</item>
+        <item>29.10.2016</item>
+    </string-array>
+    <string-array name="l2017">
+        <item>1 Ocak Yılbaşı</item>
+        <item>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</item>
+        <item>1 Mayıs Emek ve Dayanışma Günü</item>
+        <item>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</item>
+        <item>25 Haziran Ramazan Bayramı 1.gün</item>
+        <item>26 Haziran Ramazan Bayramı 2.gün</item>
+        <item>27 Haziran Ramazan Bayramı 3.gün</item>
+        <item>15 Temmuz Demokrasi Bayramı</item>
+        <item>30 Ağustos Zafer Bayramı</item>
+        <item>1 Eylül Kurban Bayramı 1.gün</item>
+        <item>2 Eylül Kurban Bayramı 2.gün</item>
+        <item>3 Eylül Kurban Bayramı 3.gün</item>
+        <item>4 Eylül Kurban Bayramı 4.gün</item>
+        <item>29 Ekim Cumhuriyet Bayramı</item>
+    </string-array>
+    <string-array name="g2017">
+        <item>01.01.2017</item>
+        <item>23.04.2017</item>
+        <item>01.05.2017</item>
+        <item>19.05.2017</item>
+        <item>25.06.2017</item>
+        <item>26.06.2017</item>
+        <item>27.06.2017</item>
+        <item>15.07.2017</item>
+        <item>30.08.2017</item>
+        <item>01.09.2017</item>
+        <item>02.09.2017</item>
+        <item>03.09.2017</item>
+        <item>04.09.2017</item>
+        <item>29.10.2017</item>
+    </string-array>
+    <string-array name="l2018">
+        <item>1 Ocak Yılbaşı</item>
+        <item>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</item>
+        <item>1 Mayıs Emek ve Dayanışma Günü</item>
+        <item>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</item>
+        <item>15 Haziran	Ramazan Bayramı 1.gün</item>
+        <item>16 Haziran	Ramazan Bayramı 2.gün</item>
+        <item>17 Haziran	Ramazan Bayramı 3.gün</item>
+        <item>15 Temmuz Demokrasi Bayramı</item>
+        <item>21 Ağustos Kurban Bayramı 1.gün</item>
+        <item>22 Ağustos Kurban Bayramı 2.gün</item>
+        <item>23 Ağustos Kurban Bayramı 3.gün</item>
+        <item>24 Ağustos Kurban Bayramı 4.gün</item>
+        <item>30 Ağustos Zafer Bayramı</item>
+        <item>29 Ekim Cumhuriyet Bayramı</item>
+    </string-array>
+    <string-array name="g2018">
+        <item>01.01.2018</item>
+        <item>23.04.2018</item>
+        <item>01.05.2018</item>
+        <item>19.05.2018</item>
+        <item>15.06.2018</item>
+        <item>16.06.2018</item>
+        <item>17.06.2018</item>
+        <item>15.07.2018</item>
+        <item>21.08.2018</item>
+        <item>22.08.2018</item>
+        <item>23.08.2018</item>
+        <item>24.08.2018</item>
+        <item>30.08.2018</item>
+        <item>29.10.2018</item>
+    </string-array>
+    <string-array name="l2019">
+        <item>1 Ocak Yılbaşı</item>
+        <item>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</item>
+        <item>1 Mayıs Emek ve Dayanışma Günü</item>
+        <item>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</item>
+        <item>5 Haziran	Ramazan Bayramı 1.gün</item>
+        <item>6 Haziran	Ramazan Bayramı 2.gün</item>
+        <item>7 Haziran	Ramazan Bayramı 3.gün</item>
+        <item>15 Temmuz Demokrasi Bayramı</item>
+        <item>11 Ağustos Kurban Bayramı 1.gün</item>
+        <item>12 Ağustos Kurban Bayramı 2.gün</item>
+        <item>13 Ağustos Kurban Bayramı 3.gün</item>
+        <item>14 Ağustos Kurban Bayramı 4.gün</item>
+        <item>30 Ağustos Zafer Bayramı</item>
+        <item>29 Ekim Cumhuriyet Bayramı</item>
+    </string-array>
+    <string-array name="g2019">
+        <item>01.01.2019</item>
+        <item>23.04.2019</item>
+        <item>01.05.2019</item>
+        <item>19.05.2019</item>
+        <item>05.06.2019</item>
+        <item>06.06.2019</item>
+        <item>07.06.2019</item>
+        <item>15.07.2019</item>
+        <item>11.08.2019</item>
+        <item>12.08.2019</item>
+        <item>13.08.2019</item>
+        <item>14.08.2019</item>
+        <item>30.08.2019</item>
+        <item>29.10.2019</item>
+    </string-array>
+    <string-array name="l2020">
+        <item>1 Ocak Yılbaşı</item>
+        <item>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</item>
+        <item>1 Mayıs Emek ve Dayanışma Günü</item>
+        <item>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</item>
+        <item>24 Mayıs Ramazan Bayramı 1.gün</item>
+        <item>25 Mayıs Ramazan Bayramı 2.gün</item>
+        <item>26 Mayıs Ramazan Bayramı 3.gün</item>
+        <item>15 Temmuz Demokrasi Bayramı</item>
+        <item>31 Temmuz Kurban Bayramı 1.gün</item>
+        <item>1 Ağustos Kurban Bayramı 2.gün</item>
+        <item>2 Ağustos Kurban Bayramı 3.gün</item>
+        <item>3 Ağustos Kurban Bayramı 4.gün</item>
+        <item>30 Ağustos Zafer Bayramı</item>
+        <item>29 Ekim Cumhuriyet Bayramı</item>
+    </string-array>
+    <string-array name="g2020">
+        <item>01.01.2020</item>
+        <item>23.04.2020</item>
+        <item>01.05.2020</item>
+        <item>19.05.2020</item>
+        <item>24.05.2020</item>
+        <item>25.05.2020</item>
+        <item>26.05.2020</item>
+        <item>15.07.2020</item>
+        <item>31.07.2020</item>
+        <item>01.08.2020</item>
+        <item>02.08.2020</item>
+        <item>03.08.2020</item>
+        <item>30.08.2020</item>
+        <item>29.10.2020</item>
+    </string-array>
+</resources>
